@@ -1,0 +1,19 @@
+workspace       : 'prec_workspace' 
+dtype           : 'fp'
+exp             : 5
+mant            : 10
+mode            : 'round'
+lr              : 0.001
+batch_size      : 200
+epoch           : 20
+data_format     : 'cifar10'
+train           : false
+test            : false
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+!!python/object:argparse.Namespace
+base_config: lib/configs/basic.yaml
+batch_size: 200
+config: configs/embedding.yaml
+data_format: cifar10
+dtype: fxp
+epoch: 40
+exp: 8
+lr: 0.0001
+mant: 23
+mode: round
+resume_from: null
+test: true
+train: false
+workspace: prec_workspace
